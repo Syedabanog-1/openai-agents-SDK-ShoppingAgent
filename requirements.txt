@@ -2,3 +2,4 @@ agents
 openai
 requests
 py-dotenv
+streamlit
