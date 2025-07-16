@@ -35,8 +35,11 @@ FUNCTIONAL TOOL:
         add_to_cart:      -Add purchasing items to cart
         checkout_cart:    -Ask payment method and get information of purchased items total cost and  name & quantity 
         request_refund    -Ask reason for refund
+        
 
-
+<img width="1611" height="905" alt="available products with detail" src="https://github.com/user-attachments/assets/7ee001c0-6762-429b-ac18-ccc0bf6fb1c5" />
+<img width="1610" height="902" alt="functional code" src="https://github.com/user-attachments/assets/3f796704-a91a-4292-84b4-84d0f65e779a" />
+<img width="1610" height="905" alt="product detail with id" src="https://github.com/user-attachments/assets/3ad6979d-d5d4-475d-b887-2e975b088943" />
 <img width="1610" height="902" alt="functional code" src="https://github.com/user-attachments/assets/d4b02cf5-fce8-4508-87a4-dcf0f6f48d02" />
 <img width="1613" height="905" alt="product list" src="https://github.com/user-attachments/assets/45810044-c6cb-4961-83b9-711b6b8c6f42" />
 <img width="1611" height="904" alt="one code-output" src="https://github.com/user-attachments/assets/4234da4a-c7d1-4443-aab7-e24f6cc9252f" />
