@@ -28,6 +28,7 @@ Feature	Description
 ✅ Run Configuration (RunConfig)	Specifies model settings and disables tracing.
 ✅ Sample Query Execution	Runs the agent with the input: "Show me the list of available furniture products." and prints results.
 
+<img width="1613" height="905" alt="product list" src="https://github.com/user-attachments/assets/45810044-c6cb-4961-83b9-711b6b8c6f42" />
 <img width="1611" height="904" alt="one code-output" src="https://github.com/user-attachments/assets/4234da4a-c7d1-4443-aab7-e24f6cc9252f" />
 <img width="1611" height="907" alt="two -output result" src="https://github.com/user-attachments/assets/0e127438-252a-4fc4-b8e6-0e99ae946821" />
 <img width="1613" height="904" alt="three output display" src="https://github.com/user-attachments/assets/c91891f6-3458-4034-8282-33666e460b61" />
