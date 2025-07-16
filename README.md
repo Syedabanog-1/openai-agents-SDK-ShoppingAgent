@@ -36,12 +36,7 @@ FUNCTIONAL TOOL:
         checkout_cart:    -Ask payment method and get information of purchased items total cost and  name & quantity 
         request_refund    -Ask reason for refund
 
-        
-        
-
-https://github.com/user-attachments/assets/f877a96c-a8b8-4683-b801-0d951a412125
-
-
+        https://github.com/user-attachments/assets/f877a96c-a8b8-4683-b801-0d951a412125
 
 <img width="1611" height="905" alt="available products with detail" src="https://github.com/user-attachments/assets/7ee001c0-6762-429b-ac18-ccc0bf6fb1c5" />
 <img width="1610" height="902" alt="functional code" src="https://github.com/user-attachments/assets/3f796704-a91a-4292-84b4-84d0f65e779a" />
