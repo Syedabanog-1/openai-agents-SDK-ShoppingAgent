@@ -28,6 +28,16 @@ Feature	Description
 ✅ Run Configuration (RunConfig)	Specifies model settings and disables tracing.
 ✅ Sample Query Execution	Runs the agent with the input: "Show me the list of available furniture products." and prints results.
 
+FUNCTIONAL TOOL:
+    
+        furniture_store:  -retrieve available data record
+        search_product:   -Find desired data 
+        add_to_cart:      -Add purchasing items to cart
+        checkout_cart:    -Ask payment method and get information of purchased items total cost and  name & quantity 
+        request_refund    -Ask reason for refund
+
+
+<img width="1610" height="902" alt="functional code" src="https://github.com/user-attachments/assets/d4b02cf5-fce8-4508-87a4-dcf0f6f48d02" />
 <img width="1613" height="905" alt="product list" src="https://github.com/user-attachments/assets/45810044-c6cb-4961-83b9-711b6b8c6f42" />
 <img width="1611" height="904" alt="one code-output" src="https://github.com/user-attachments/assets/4234da4a-c7d1-4443-aab7-e24f6cc9252f" />
 <img width="1611" height="907" alt="two -output result" src="https://github.com/user-attachments/assets/0e127438-252a-4fc4-b8e6-0e99ae946821" />
